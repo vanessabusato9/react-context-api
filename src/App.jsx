@@ -6,6 +6,7 @@ import Products from '../pages/Products'
 
 import DefaultLayout from './layout/DefaultLayout'
 
+import { BudgetProvider } from "../contexts/BudgetContext";
 
 
 function App() {
