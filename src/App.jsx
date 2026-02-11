@@ -1,8 +1,8 @@
-import { BudgetProvider } from "../contexts/BudgetContext";
+import { BudgetProvider } from "./contexts/BudgetContext";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Homepage from '../pages/Homepage'
-import AboutUs from "../pages/AboutUs"
-import Products from '../pages/Products'
+import Homepage from './pages/Homepage'
+import AboutUs from "./pages/AboutUs"
+import Products from './pages/Products'
 import DefaultLayout from './layout/DefaultLayout'
 
 
